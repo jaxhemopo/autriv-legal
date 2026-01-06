@@ -18,16 +18,16 @@ You’ve got the discipline and you know your stuff. Autriv is built to handle t
 ## 🛠️ Support & Contact
 We are here to support your journey. If you encounter any issues or have questions regarding Autriv, please reach out:
 
-* **Support Email:** [futuremind.terminal@gmail.come]
-* **Official Website:** [https://autriv.app]
-* **GitHub Issues:** [https://github.com/jaxhemopo/autriv-legal/issues]
+* **Support Email:** [(futuremind.terminal@gmail.come)]
+* **Official Website:** [(https://autriv.app)]
+* **GitHub Issues:** [(https://github.com/jaxhemopo/autriv-legal/issues)]
 
 ---
 
 ## 🔐 Privacy & Legal
 Your data privacy is central to our architecture.
-* **Privacy Policy:** [https://autriv.app.privacy.html]
-* **Terms of Service:** [https://autriv.app.terms.html]
+* **Privacy Policy:** [(https://autriv.app/privacy.html)]
+* **Terms of Service:** [(https://autriv.app/terms.html)]
 
 ---
 
