@@ -27,7 +27,7 @@ We are here to support your journey. If you encounter any issues or have questio
 ## 🔐 Privacy & Legal
 Your data privacy is central to our architecture.
 * **[Privacy Policy](https://autriv.app/privacy.html)**
-* **[Terms of Service](https://autriv.app/terms.html)**
+* **[Terms of Use](https://autriv.app/terms.html)**
 
 ---
 
